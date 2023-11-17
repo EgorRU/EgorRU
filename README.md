@@ -32,12 +32,6 @@ I use linux/windows, PostgreSQL
 
 
 
-Парсинг расписания с сайта ВятГУ и вывод его через тг бота
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EgorRU&repo=Parsing-of-the-VyatGU-schedule&theme=dark)](https://github.com/EgorRU/Parsing-of-the-VyatGU-schedule)
-
-
-
 Бот для курса "Разработка программного обеспечения" ВятГУ 2022/2023
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EgorRU&repo=TelegramBot-2022-2023-VyatsuRPPO&theme=dark)](https://github.com/EgorRU/TelegramBot-2022-2023-VyatsuRPPO)
