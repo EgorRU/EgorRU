@@ -1,6 +1,6 @@
 # About me
 
-#I use PYTHON3, windows/linux, PostgreSQL, Docker
+# I use PYTHON3, windows/linux, PostgreSQL, Docker
 
 
 # My projects
