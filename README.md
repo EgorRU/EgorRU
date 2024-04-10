@@ -1,15 +1,7 @@
 # About me
-| Rank | Libraries Python |
-|-----:|------------------|
-|     1| Aiogram          |
-|     2| SQLite           |
-|     3| asyncio          |
-|     4| openpyxl         |
-|     5| request          |
-|     6| bs4              |
-|     7| SQLAlchemy       |
 
-I use windows/linux, PostgreSQL, Docker
+#I use PYTHON3, windows/linux, PostgreSQL, Docker
+
 
 # My projects
 Программа для сравнения выгрузок статей со Scopus, Wos, eLibrary и Ipublishing из ВятГУ для последующей выгрузки в excel и postgres
@@ -35,6 +27,16 @@ I use windows/linux, PostgreSQL, Docker
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EgorRU&repo=VkBot-2022-2023-VyatsuRPPO&theme=dark)](https://github.com/EgorRU/VkBot-2022-2023-VyatsuRPPO)
 
 
+
+| Rank | Libraries Python |
+|-----:|------------------|
+|     1| Aiogram          |
+|     2| SQLite           |
+|     3| asyncio          |
+|     4| openpyxl         |
+|     5| request          |
+|     6| bs4              |
+|     7| SQLAlchemy       |
 
 
 # Statistics
