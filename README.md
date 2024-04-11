@@ -1,6 +1,6 @@
 # About me
 
-## I use python3/C#, windows/linux, PostgreSQL, Docker
+## I use python3/C#, windows/linux, PostgreSQL
 
 
 # My projects
@@ -34,9 +34,7 @@
 |     2| SQLite           |
 |     3| asyncio          |
 |     4| openpyxl         |
-|     5| request          |
-|     6| bs4              |
-|     7| SQLAlchemy       |
+|     5| FastAPI          |
 
 
 # Statistics
