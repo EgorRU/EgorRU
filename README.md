@@ -1,6 +1,6 @@
 # About me
 
-## I use python3/C#, windows/linux, PostgreSQL
+## I use python3/C#/C++
 
 
 # My projects
