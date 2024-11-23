@@ -1,6 +1,6 @@
 # About me
 
-## I use python3/C#/C++
+## I use C++/python3
 
 
 # My projects
@@ -16,26 +16,27 @@
 
 
 
-Телеграмм-бот для курса "Разработка прикладного программного обеспечения" ВятГУ
+Бот для курса РППО ВятГУ
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EgorRU&repo=TelegramBot-2022-2023-VyatsuRPPO&theme=dark)](https://github.com/EgorRU/TelegramBot-2022-2023-VyatsuRPPO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EgorRU&repo=TgBot-RPPO&theme=dark)](https://github.com/EgorRU/TgBot-RPPO)
 
 
 
-Вк-бот для курса "Разработка прикладного программного обеспечения" ВятГУ
+Бот для курса РПРПИИ ВятГУ
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EgorRU&repo=VkBot-2022-2023-VyatsuRPPO&theme=dark)](https://github.com/EgorRU/VkBot-2022-2023-VyatsuRPPO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EgorRU&repo=TgBot-RPRPII&theme=dark)](https://github.com/EgorRU/TgBot-RPRPII)
+
+
 
 
 
 | Rank | Libraries Python |
 |-----:|------------------|
 |     1| Aiogram          |
-|     2| SQLite           |
-|     3| asyncio          |
-|     4| openpyxl         |
-|     5| FastAPI          |
-
+|     2| sqlalchemy       |
+|     3| aiosqlite        |
+|     4| asyncio          |
+|     5| openpyxl         |
 
 # Statistics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgorRU&theme=dark)
@@ -45,5 +46,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EgorRU&theme=dark)
 
 # My contacts
-- [Telegram](https://t.me/advanced_default_user)
-- [Vk](https://vk.com/advanced_default_user)
+- [Telegram](https://t.me/datadll)
