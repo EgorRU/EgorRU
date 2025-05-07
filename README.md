@@ -16,4 +16,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EgorRU&theme=dark)
 
 # My contacts
-- [Telegram](https://t.me/datadll)
+- [Telegram](https://t.me/memedll)
