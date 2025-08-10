@@ -1,16 +1,25 @@
-### Hi there 👋
+# About me
 
-<!--
-**EgorRU/EgorRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I use C++/python3
 
-Here are some ideas to get you started:
+| Rank | Libraries Python |
+|-----:|------------------|
+|     1| aiogram          |
+|     2| sqlalchemy       |
+|     3| pydantic         |
+|     4| aiosqlite         |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Libraries C++ |
+|-----:|------------------|
+|     1| qt5/6            |
+|     2| boost            |
+
+# Statistics
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgorRU&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EgorRU&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EgorRU&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EgorRU&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EgorRU&theme=dark)
+
+# My contacts
+- [Telegram](https://t.me/memedll)
